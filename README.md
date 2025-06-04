@@ -1,11 +1,11 @@
 # Expense-Tracker
 
-## Overview
+### Overview
 
 A simple Python application to track and manage expenses. Users can input, save, delete, and visualize expenses with a dashboard showing KPIs, pie charts, and bar charts.
 
 
-## Features
+### Features
 
 - Add expenses with date, category, description, and amount (description optional).
 - Select dates using a calendar.
