@@ -13,7 +13,7 @@ A simple Python application to track and manage expenses. Users can input, save,
 - Delete specific expense records.
 - View and sort expense data in a table.
 
-# Dashboard with:
+### Dashboard with:
 
 - KPIs: Total expenses, average monthly spending, top category.
 - Pie chart for expense distribution by category.
